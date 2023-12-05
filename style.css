@@ -1,0 +1,16 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+.vertical-divider {
+    border-right: 1px solid #333; 
+}
+.navbar{
+    background-color: pink;
+}
+#about2{
+    background-color: rgb(22, 44, 22);
+}
+#footer{
+    background-color: rgb(22, 44, 22);
+}
